@@ -1,0 +1,25 @@
+{
+  "name": "liuziyang-react-cli",
+  "version": "0.0.1-alpha.1",
+  "description": "",
+  "bin": {
+    "create-project": "./bin/create-project.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "arg": "^5.0.1",
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.0",
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.0",
+    "ora": "^6.0.1"
+  },
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
